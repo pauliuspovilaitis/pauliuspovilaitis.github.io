@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pauliuspovilaitis.github.io/sitemap.xml
